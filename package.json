@@ -1,0 +1,22 @@
+{
+  "name": "omnichrome-winamp",
+  "version": "1.0.0",
+  "description": "A Winamp skin.",
+  "main": "build.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neurotech/omnichrome-winamp.git"
+  },
+  "keywords": [
+    "winamp"
+  ],
+  "author": "Tim Douglas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neurotech/omnichrome-winamp/issues"
+  },
+  "homepage": "https://github.com/neurotech/omnichrome-winamp#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
