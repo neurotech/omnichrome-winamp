@@ -1,8 +1,8 @@
 [Text]
-Normal=#3a3a41
+Normal=#51515b
 Current=#FFFFFF
 NormalBG=#09090a
 SelectedBG=#17171a
-MbFG=#3a3a41
-MbBG=#222224
+MbFG=#51515b
+MbBG=#09090a
 Font=Arial
