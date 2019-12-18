@@ -3,6 +3,7 @@ Normal=#51515b
 Current=#FFFFFF
 NormalBG=#09090a
 SelectedBG=#17171a
-MbFG=#51515b
-MbBG=#09090a
 Font=Arial
+
+mbBG=#51515b
+mbFG=#09090a
