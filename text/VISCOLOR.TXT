@@ -1,5 +1,5 @@
-0,0,0         // color 0 = black
-48,48,81      // color 1 = grey for dots
+9,9,10        // color 0 = black
+9,9,10        // color 1 = grey for dots
 153,153,255   // color 2 = top of spec
 160,160,255   // 3
 167,167,255   // 4
